@@ -1,0 +1,21 @@
+.tabs-header {
+    display: inline-flex;
+    
+    color: #fff;
+    margin: 1rem 0 1.5rem;
+    border: 2px solid;
+    gap: 2px;
+}
+
+.tab {
+    border: 1px black solid;
+    background-color: #ff8800;
+    padding: 3px;
+    cursor: pointer;
+    
+}
+
+.active {
+    background-color: #08f708;
+    color: #fff;
+}

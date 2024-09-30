@@ -1,0 +1,25 @@
+.progress-header {
+    position: fixed;
+    top: 0;
+    z-index: 1;
+    width: 100vw;
+    height: auto;
+    background-color: rgb(15, 12, 199);
+    color: #fff;
+    
+}
+
+.progress-bar-container {
+    width: 100%;
+    height: 10px;
+    
+}
+.progress-bar {
+    background-color: rgb(3, 221, 21);
+    height: 10px;
+    width: 0px;
+}
+
+.progress-item-container {
+    margin-top: 100px;
+}
